@@ -1,7 +1,12 @@
 # IlliaSEM-DEV
 Backend Developer specializing in Java, Spring Boot, Microservices, and cloud-ready architectures.
 
-[![GitHub Snake Light](https://raw.githubusercontent.com/illiasemenov51-ui/illiasemenov51-ui/output/github-snake-light.svg)](https://github.com/illiasemenov51-ui)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illiasemenov51-ui&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illiasemenov51-ui&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
