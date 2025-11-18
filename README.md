@@ -62,8 +62,8 @@ HC-SR04 + 7-segment display + servo logic.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illiasemenov51-ui&layout=compact&theme=tokyonight&hide_border=true)
 
+[![GitHub Snake Light](./output/github-snake-light.svg)](https://github.com/illiasemenov51-ui)
 
-[![GitHub Snake Light](https://raw.githubusercontent.com/illiasemenov51-ui/illiasemenov51-ui/output/github-snake-light.svg)](https://github.com/illiasemenov51-ui)
 
 
 
