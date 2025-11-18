@@ -3,7 +3,7 @@ Backend Developer specializing in Java, Spring Boot, Microservices, and cloud-re
 
 # Hi, I'm Illia 👋
 
-**Java Backend Developer | Computer Science Student | Building Real-World Projects**
+**Java Backend Developer | Computer Sciences Student | Building Real-World Projects**
 
 📍 Based in Warsaw (moving to Krakow in the summer)  
 🎯 Preparing for a Backend Internship (Java, Spring Boot, PostgreSQL, Docker, CI/CD)  
