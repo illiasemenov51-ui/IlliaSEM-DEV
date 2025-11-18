@@ -1,17 +1,6 @@
 # IlliaSEM-DEV
 Backend Developer specializing in Java, Spring Boot, Microservices, and cloud-ready architectures.
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illiasemenov51-ui&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illiasemenov51-ui&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-
-
 # Hi, I'm Illia 👋
 
 **Java Backend Developer | Computer Sciences Student | Building Real-World Projects**
@@ -72,6 +61,10 @@ HC-SR04 + 7-segment display + servo logic.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=illiasemenov51-ui&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illiasemenov51-ui&layout=compact&theme=tokyonight&hide_border=true)
+
+
+[![GitHub Snake Light](https://raw.githubusercontent.com/illiasemenov51-ui/illiasemenov51-ui/output/github-snake-light.svg)](https://github.com/illiasemenov51-ui)
+
 
 
 
