@@ -1,6 +1,12 @@
 # IlliaSEM-DEV
 Backend Developer specializing in Java, Spring Boot, Microservices, and cloud-ready architectures.
 
+[![GitHub Snake Light](https://raw.githubusercontent.com/illiasemenov51-ui/illiasemenov51-ui/output/github-snake-light.svg)](https://github.com/illiasemenov51-ui)
+
+
+
+
+
 # Hi, I'm Illia 👋
 
 **Java Backend Developer | Computer Sciences Student | Building Real-World Projects**
