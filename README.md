@@ -1,2 +1,68 @@
 # IlliaSEM-DEV
 Backend Developer specializing in Java, Spring Boot, Microservices, and cloud-ready architectures.
+
+# Hi, I'm Illia 👋
+
+**Java Backend Developer | Computer Science Student | Building Real-World Projects**
+
+📍 Based in Warsaw (moving to Krakow in the summer)  
+🎯 Preparing for a Backend Internship (Java, Spring Boot, PostgreSQL, Docker, CI/CD)  
+🚀 Currently developing: Finance Tracker App & English Learning Platform (Fox Academy)  
+☕ Coffee lover & logic enthusiast
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:**  
+- Java • Spring Boot • Spring Security  
+- PostgreSQL • Hibernate/JPA  
+- REST API • JSON • Maven
+
+**Frontend:**  
+- React • HTML • CSS • JavaScript
+
+**Tools & DevOps:**  
+- Git • GitHub • Docker  
+- GitHub Actions • Postman  
+- Linux • IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Finance Tracker (Java + PostgreSQL)
+A full backend for tracking expenses, budgets, and financial statistics.
+
+### 🔹 TuneTone – Collaboration Platform for Musicians
+A university project connecting independent musicians, designers, and producers.
+
+### 🔹 Online Store System
+Backend system for product management, orders, and payments.
+
+### 🔹 Arduino Parking Sensor
+HC-SR04 + 7-segment display + servo logic.
+
+---
+
+## 📚 What I'm Learning Now
+- Spring Boot Advanced  
+- Docker & Docker Compose  
+- CI/CD (GitHub Actions)  
+- Clean Architecture & Design Patterns  
+- System Design basics  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlliaSEM-DEV&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaSEM-DEV&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+**LinkedIn:** https://www.linkedin.com/in/illia-semenov-3ab894300/  
+**Instagram:** @sir_illay  
