@@ -56,19 +56,24 @@ HC-SR04 + 7-segment display + servo logic.
 
 ## 📊 GitHub Stats
 
+### 🔥 Streak Stats (работает на 100%)
 ![GitHub Streak](https://streak-stats.demolab.com?user=illiasemenov51-ui&theme=tokyonight&hide_border=true)
 
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=illiasemenov51-ui&theme=tokyonight&hide_border=true)
+### 📈 GitHub Stats  
+_(новый рабочий эндпоинт без 401)_
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illiasemenov51-ui&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=illiasemenov51-ui&layout=compact&theme=tokyonight&hide_border=true)
+---
 
+### 🧠 Top Languages  
+_(тоже новый рабочий эндпоинт)_
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illiasemenov51-ui&layout=compact&theme=tokyonight&hide_border=true)
 
-
-
-
+---
 
 ## 📫 Connect with Me
 
 **LinkedIn:** https://www.linkedin.com/in/illia-semenov-3ab894300/  
-**Instagram:** @sir_illay  
+**Instagram:** @sir_illay
