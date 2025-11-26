@@ -56,7 +56,8 @@ HC-SR04 + 7-segment display + servo logic.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=illiasemenov51-ui&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=illiasemenov51-ui&theme=tokyonight&hide_border=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=illiasemenov51-ui&theme=tokyonight&hide_border=true)
 
